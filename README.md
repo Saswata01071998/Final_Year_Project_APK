@@ -21,8 +21,8 @@ How to install the apk : <br>
 <img src="/Screenshots/courses.jpeg" height="480" width="270" hspace="5">
 <img src="/Screenshots/music pad.jpeg" height="480" width="270" hspace="5">
 <img src="/Screenshots/fun with music.jpeg" height="480" width="270" hspace="5">
-<img src="/Screenshots/musical instruments.jpeg" height="480" width="270" hspace="5">
-<img src="/Screenshots/musical letters.jpeg" height="480" width="270" hspace="5">
+<img src="/Screenshots/musical instruments.jpeg" height="480" width="270" hspace="5"><br>
+<img src="/Screenshots/musical letters.jpeg" height="270" width="480" hspace="5">
 
 </div>
 
